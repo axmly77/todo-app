@@ -1,16 +1,38 @@
-&nbsp;ToDoアプリ
+ ToDoアプリ
+
+ 
+
+ 概要
+
+  React + TypeScript で作ったシンプルなタスク管理アプリです。
+
+ 
+
+ 公開URL
+
+  https://todo-app-blush-rho.vercel.app  
+
+
+
+&nbsp;使用技術
+
+&nbsp; - React 18
+
+&nbsp; - TypeScript
+
+&nbsp; - Create React App
 
 &nbsp; 
 
-&nbsp;概要
+&nbsp;  機能
 
-&nbsp; React + TypeScript で作ったシンプルなタスク管理アプリです。
+&nbsp; - タスクの追加・完了・削除・編集
 
-&nbsp; 
+&nbsp; - 優先度（高・中・低）の設定
 
-&nbsp;公開URL
+&nbsp; - 完了済み / 未完了でフィルタリング
 
-&nbsp; https://todo-app-blush-rho.vercel.app
+&nbsp; - 進捗バーで達成率を表示
 
 
 
